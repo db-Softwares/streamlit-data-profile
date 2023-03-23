@@ -1,0 +1,12 @@
+black
+numpy
+pandas
+matplotlib
+seaborn
+plotly
+scipy
+openpyxl
+xlrd
+pandas_profiling
+streamlit_pandas_profiling
+streamlit
