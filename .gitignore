@@ -1,0 +1,8 @@
+.env
+creds.py
+.idea/
+.vscode/
+venv/
+venv310
+__pycache__/
+**/__pycache__/
